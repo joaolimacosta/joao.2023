@@ -6,3 +6,7 @@
 .imagem{
    width: 20%;
 }
+.listra{
+display: inline-block;
+margin: 0 16px;   
+}
